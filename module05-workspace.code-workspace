@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "../M5_Starter_Code"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../../05-Pandas-Data-Preparation-2"
+		},
+		{
+			"path": "../../06-Sourcing-AI-Project-Data"
+		},
+		{
+			"path": "../data-sourcing-challenge"
+		},
+		{
+			"path": "../M6_Starter_Code"
+		},
+		{
+			"path": "../../../cybersecurity/CWCT Python Essentials for Cybersecurity/class_assignments"
+		}
+	],
+	"settings": {}
+}
